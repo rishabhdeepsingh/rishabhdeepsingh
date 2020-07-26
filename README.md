@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: [CP](https://github.com/rishabhdeepsingh/Competitive) [reactjs](https://github.com/facebook/react/)
 - 📫 How to reach me: rishabhdeepsingh98@gmail.com 
 - 👯 I’m looking to collaborate on: Flutter apps / React website
 
 <!--
+- 🔭 I’m currently working on: 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
