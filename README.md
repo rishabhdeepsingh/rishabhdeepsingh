@@ -1,6 +1,26 @@
-### Hi there 👋
+### Hi there <img alt='Hi' width="28" src="https://github.com/rishabhdeepsingh/rishabhdeepsingh/blob/master/hi.gif">
+<img align="right" width="300" height="400" src="https://github.com/rishabhdeepsingh/rishabhdeepsingh/blob/master/coding_from_home.gif">
 
-- 🌱 I’m currently learning: [CP](https://github.com/rishabhdeepsingh/Competitive) [reactjs](https://github.com/facebook/react/)
+
+<br/>
+<a href="https://twitter.com/rds_98">
+  <img align="left" alt="Rishabh | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rishabhdeepsingh/">
+  <img align="left" alt="Rishabh's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/rishabhdeepsingh98">
+  <img align="left" alt="Rishabh's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/rishabhdeepsingh/">
+  <img align="left" alt="Rishabh's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/mtuyfp6wnwh6b4bw2m51w0txl">
+  <img align="left" alt="Rishabh's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+<br/>
+
+- 🌱 I’m currently learning:  <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> [CP](https://github.com/rishabhdeepsingh/Competitive) <a href="https://github.com/facebook/react/"> <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
 - 📫 How to reach me: rishabhdeepsingh98@gmail.com 
 - 👯 I’m looking to collaborate on: Flutter apps / React website
 
