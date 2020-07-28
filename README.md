@@ -20,9 +20,11 @@
 </a>
 <br/> <br/>
 
-- 🌱 I’m currently learning: <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> <a href="https://github.com/facebook/react/"> <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
+- 🌱 I’m currently learning:  &nbsp; <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> &nbsp; <a href="https://github.com/facebook/react/"> <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
 - 📫 How to reach me: rishabhdeepsingh98@gmail.com 
 - 👯 I’m looking to collaborate on: Flutter apps / React website
+
+[![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabhdeepsingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on: 
