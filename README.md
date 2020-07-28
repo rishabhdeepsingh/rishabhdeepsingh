@@ -18,9 +18,9 @@
 <a href="https://open.spotify.com/user/mtuyfp6wnwh6b4bw2m51w0txl">
   <img align="left" alt="Rishabh's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<br/>
+<br/> <br/>
 
-- 🌱 I’m currently learning:  <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> [CP](https://github.com/rishabhdeepsingh/Competitive) <a href="https://github.com/facebook/react/"> <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
+- 🌱 I’m currently learning: <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> <a href="https://github.com/facebook/react/"> <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
 - 📫 How to reach me: rishabhdeepsingh98@gmail.com 
 - 👯 I’m looking to collaborate on: Flutter apps / React website
 
