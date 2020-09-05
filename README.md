@@ -20,7 +20,7 @@
 </a>
 <br/> <br/>
 
-- 🌱 I’m currently learning:  &nbsp; <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> &nbsp; <a href="https://github.com/facebook/react/"> <img width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </a>
+- 🌱 I’m currently learning:  &nbsp; <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> &nbsp; <a href="https://github.com/golang/go"> <img width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> </a>
 - 📫 How to reach me: rishabhdeepsingh98@gmail.com 
 - 👯 I’m looking to collaborate on: Flutter apps <img width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"> 
 
