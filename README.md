@@ -26,6 +26,8 @@
 
 <br />
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/iamwhiteknife.png" onerror="alert(1)" alt="TryHackMe">
+
 [![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabhdeepsingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdeepsingh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
