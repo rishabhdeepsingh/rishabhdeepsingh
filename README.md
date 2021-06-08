@@ -32,6 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdeepsingh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhdeepsingh" alt="rishabhdeepsingh" /> </p>
 <!--
 - 🔭 I’m currently working on: 
 - 🤔 I’m looking for help with ...
