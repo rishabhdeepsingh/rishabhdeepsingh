@@ -16,8 +16,8 @@ https://www.whiteknife.in
 <a href="https://www.instagram.com/rishabhdeepsingh/">
 	<img align="left" alt="Rishabh's Instagram" width="30px" src="icons/instagram.png" />
 </a>
-<a href="https://open.spotify.com/user/mtuyfp6wnwh6b4bw2m51w0txl">!
-	<img align="left" alt="Rishabh's Spotify" width="30px" src="iconns/spotify.png" />
+<a href="https://open.spotify.com/user/mtuyfp6wnwh6b4bw2m51w0txl">
+	<img align="left" alt="Rishabh's Spotify" width="30px" src="icons/spotify.png" />
 </a>
 <br/> <br/>
 
