@@ -21,7 +21,8 @@ https://www.whiteknife.in
 </a>
 <br/> <br/>
 
-![TryHackMe](./iamwhiteknife.png)
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/iamwhiteknife.png" />
+<br/> <br/>
 
 - 🌱 I’m currently learning:  &nbsp; <a href="https://www.docker.com/"><img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> </a> &nbsp; <a href="https://github.com/golang/go"> <img width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> </a>
 - 📫 How to reach me: rishabhdeepsingh98@gmail.com 
@@ -34,10 +35,3 @@ https://www.whiteknife.in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdeepsingh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhdeepsingh" alt="rishabhdeepsingh" /> </p>
-<!--
-- 🔭 I’m currently working on: 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
